@@ -188,3 +188,12 @@ section {
     background: #024e76;
     color: #fce138;
 }
+
+.contact {
+    text-align: center;
+    background: #024e76;
+}
+
+.contact h2 {
+    color: #fce138;
+}
